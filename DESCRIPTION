@@ -1,6 +1,6 @@
 Package: seqEditoR
 Title: Manipulating Genomic Sequences With Ease
-Version: 0.0.0.9000
+Version: 0.99.0
 Authors@R: 
     person("Andrea", "Mariani", , "andrea.mariani@ieo.it", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0003-2624-1200"))
